@@ -85,4 +85,4 @@ end tell
 
 ## License
 
-MIT
+[MIT](https://github.com/lemonteaau/nordvpn-raycast/blob/main/LICENSE)
